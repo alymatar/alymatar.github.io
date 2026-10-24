@@ -1,0 +1,22 @@
+{
+  "slug": "logistics-platform",
+  "title": "Logistics Company Platform",
+  "summary": "Accounting and data-control system for a logistics company: a Flask backend with PostgreSQL behind a React website and React Native apps.",
+  "highlights": [
+    "Flask backend and PostgreSQL database for the company's accounting and data control",
+    "Driver app that takes photos and scans data via OCR or QR codes",
+    "Captured data appears on the website, where an administrator edits and approves it"
+  ],
+  "tags": [
+    "Flask",
+    "PostgreSQL",
+    "React",
+    "React Native",
+    "OCR",
+    "QR codes"
+  ],
+  "repo_url": null,
+  "period": "Aug 2024 – Sep 2024",
+  "status": "private",
+  "note": "The code belongs to the client and is not public"
+}

@@ -1,0 +1,84 @@
+[
+  {
+    "slug": "flask-auth-api",
+    "title": "Flask Authentication & Authorization API",
+    "summary": "A REST API with authentication and role-based access control built from scratch, without Flask-Login or Flask-JWT.",
+    "highlights": [
+      "JWT Bearer tokens and database-backed sessions, bcrypt password hashing",
+      "Per-role, per-resource and owner-based permissions, plus an admin API",
+      "pytest test suite that runs in GitHub Actions"
+    ],
+    "tags": [
+      "Python",
+      "Flask",
+      "SQLAlchemy",
+      "PostgreSQL",
+      "JWT",
+      "pytest"
+    ],
+    "repo_url": "https://github.com/alymatar/Flask-authorization-and-authentication",
+    "period": null,
+    "status": "public",
+    "note": null
+  },
+  {
+    "slug": "expense-analytics-cli",
+    "title": "Expense Analytics CLI",
+    "summary": "A Python command-line expense tracker with category analytics and CSV storage.",
+    "highlights": [
+      "Add expenses with input validation, then view totals per category",
+      "Filter by category; data persists in a local CSV file",
+      "Standard library only, with 11 unittest tests"
+    ],
+    "tags": [
+      "Python",
+      "CLI",
+      "CSV",
+      "unittest"
+    ],
+    "repo_url": "https://github.com/alymatar/expense-analytics-cli",
+    "period": null,
+    "status": "public",
+    "note": null
+  },
+  {
+    "slug": "logistics-platform",
+    "title": "Logistics Company Platform",
+    "summary": "Accounting and data-control system for a logistics company: a Flask backend with PostgreSQL behind a React website and React Native apps.",
+    "highlights": [
+      "Flask backend and PostgreSQL database for the company's accounting and data control",
+      "Driver app that takes photos and scans data via OCR or QR codes",
+      "Captured data appears on the website, where an administrator edits and approves it"
+    ],
+    "tags": [
+      "Flask",
+      "PostgreSQL",
+      "React",
+      "React Native",
+      "OCR",
+      "QR codes"
+    ],
+    "repo_url": null,
+    "period": "Aug 2024 – Sep 2024",
+    "status": "private",
+    "note": "The code belongs to the client and is not public"
+  },
+  {
+    "slug": "arabic-courses-site",
+    "title": "Arabic Language Courses Website",
+    "summary": "Course website with a React frontend, a Flask backend and a PostgreSQL database.",
+    "highlights": [
+      "User login",
+      "Course materials and paid sections"
+    ],
+    "tags": [
+      "Flask",
+      "PostgreSQL",
+      "React"
+    ],
+    "repo_url": null,
+    "period": "Jul 2024 – Aug 2024",
+    "status": "private",
+    "note": "The code belongs to the client and is not public"
+  }
+]

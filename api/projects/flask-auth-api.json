@@ -1,0 +1,22 @@
+{
+  "slug": "flask-auth-api",
+  "title": "Flask Authentication & Authorization API",
+  "summary": "A REST API with authentication and role-based access control built from scratch, without Flask-Login or Flask-JWT.",
+  "highlights": [
+    "JWT Bearer tokens and database-backed sessions, bcrypt password hashing",
+    "Per-role, per-resource and owner-based permissions, plus an admin API",
+    "pytest test suite that runs in GitHub Actions"
+  ],
+  "tags": [
+    "Python",
+    "Flask",
+    "SQLAlchemy",
+    "PostgreSQL",
+    "JWT",
+    "pytest"
+  ],
+  "repo_url": "https://github.com/alymatar/Flask-authorization-and-authentication",
+  "period": null,
+  "status": "public",
+  "note": null
+}

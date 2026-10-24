@@ -1,0 +1,18 @@
+{
+  "slug": "arabic-courses-site",
+  "title": "Arabic Language Courses Website",
+  "summary": "Course website with a React frontend, a Flask backend and a PostgreSQL database.",
+  "highlights": [
+    "User login",
+    "Course materials and paid sections"
+  ],
+  "tags": [
+    "Flask",
+    "PostgreSQL",
+    "React"
+  ],
+  "repo_url": null,
+  "period": "Jul 2024 – Aug 2024",
+  "status": "private",
+  "note": "The code belongs to the client and is not public"
+}

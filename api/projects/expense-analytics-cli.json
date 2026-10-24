@@ -1,0 +1,20 @@
+{
+  "slug": "expense-analytics-cli",
+  "title": "Expense Analytics CLI",
+  "summary": "A Python command-line expense tracker with category analytics and CSV storage.",
+  "highlights": [
+    "Add expenses with input validation, then view totals per category",
+    "Filter by category; data persists in a local CSV file",
+    "Standard library only, with 11 unittest tests"
+  ],
+  "tags": [
+    "Python",
+    "CLI",
+    "CSV",
+    "unittest"
+  ],
+  "repo_url": "https://github.com/alymatar/expense-analytics-cli",
+  "period": null,
+  "status": "public",
+  "note": null
+}
